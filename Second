@@ -7,10 +7,10 @@
 	<body>
 		<h1>Second</h1>
 		<li>
-			<a href="img/1.jpg">one</a>
-			<a href="img/2.jpg">two</a>
-			<a href="img/3.jpg">three</a>
-			<a href="img/4.jpg">four</a>
+			<a href="1.jpg">one</a>
+			<a href="2.jpg">two</a>
+			<a href="3.jpg">three</a>
+			<a href="4.jpg">four</a>
 		</li>	
 	</body>
 	<script>
