@@ -5,20 +5,15 @@
 <title>Fourth</title>
 </head>
 <body>
-<div>
-<a href="javascript:popUp('http://www.nihao.com/ ');">Example1</a>
-</div>
-<div>
-<a href="http://www.2345.com/ " onclick="popUp(this.href);return false;">Example3</a>
-</div>
-<div>
-<a href="#" onclick="popUp('http://www.baidu.com/ ');return false;">Example2</a>
-</div>
+<h1>链接</h1>
+<li>
+			<a href="javascript:popUp('http://www.baidu.com/');">exampl-A</a>
+			<a href="#" onclick="popUp('https://colorhunt.co/palette/120066');return false;">exampl-B</a>
+			<a href="http://www.runoob.com/"onclick="popUp(this.href);return false;">exampl-C</a>
+</li>
 <script>
-window.open(url,name,features)
 function popUp(winURL){
-window.open(winURL,"popup","width=320,height=480");
-}
+window.open(winURL,"popup","width=320,height=480");}
 </script>
 </body>
 </html>        
