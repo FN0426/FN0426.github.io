@@ -8,7 +8,7 @@
 		<h1>Second</h1>
 		<li><a href="1.jpg">one</a></li>
 		<li><a href="2.jpg">two</a></li>
-		<li>a href="3.jpg">three</a></li>
+		<li><a href="3.jpg">three</a></li>
 		<li><a href="4.jpg">four</a></li>
 	</body>
 	<script>
